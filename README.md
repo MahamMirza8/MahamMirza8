@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Arsal, Welcome to my profile! Check out my projects on GitHub! 🚀
+👋 Hi, I'm Maham, Welcome to my profile! Check out my projects on GitHub! 🚀
 
 
 ## 🌐 Socials:
