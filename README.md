@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 4th-semester BS CS student 💡 Experienced in C++, C#, SQL Server 2022 🔍 Learning Flutter | Cybersecurity Enthusiastic |
+👋 Hi, I'm Arsal, Welcome to my profile! Check out my projects on GitHub! 🚀
 
 
 ## 🌐 Socials:
